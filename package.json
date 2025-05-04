@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^22.15.3",
+    "llparse": "^7.3.0"
+  }
+}
