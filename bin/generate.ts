@@ -11,8 +11,8 @@ const HEADER_FILE = resolve(__dirname, '../build/lljson.h');
 
 
 
-// TODO: (Vizonex) llparse enum names after being compiled so 
-// that llhttp can compiled alongside it...
+// TODO: (Vizonex) rename llparse enum names after being compiled so 
+// that llhttp can compiled alongside it without introducing compile errors...
 
 
 let llparse = new LLParse('lljson__internal');
